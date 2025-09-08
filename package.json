@@ -1,0 +1,17 @@
+{
+    "name": "fdw-lab-1-box-model",
+    "version": "1.0.0",
+    "description": "Laboratorio 1 de Fundamentos de Desarrollo Web",
+    "main": "index.js",
+    "scripts": {
+        "test": "node test.js"
+    },
+    "dependencies": {
+        "htmlhint": "^0.14.2",
+        "puppeteer": "^10.4.0",
+        "stylelint": "^13.13.1",
+        "stylelint-config-standard": "^22.0.0"
+    },
+    "author": "Hybridge Education",
+    "license": "ISC"
+}
