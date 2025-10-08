@@ -1,2 +1,7 @@
-/* Agrega tus estilos aquí */
-/* Debes crear una clase llamada mi-div */
+.mi-div {
+  width: 300px;
+  height: 200px;
+  padding: 20px;
+  margin: 30px;
+  border: 10px solid blue;
+}
